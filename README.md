@@ -1,11 +1,3 @@
-<div style="text-align: center;">
-
-[HackTheBox](#hackthebox) • [FCSC](#fcsc) • [ROP Emporium](#rop-emporium)
-
-</div>
-
-
-
 ### ROP Emporium
 
 - [ret2win](rop-emporium/ret2win)
