@@ -1,6 +1,8 @@
-<p align="center">
-  [HackTheBox](#hackthebox) - [FCSC](#fcsc) - [ROP Emporium](#rop-emporium)
-</p>
+<div style="text-align: center;">
+
+[HackTheBox](#hackthebox) • [FCSC](#fcsc) • [ROP Emporium](#rop-emporium)
+
+</div>
 
 
 
