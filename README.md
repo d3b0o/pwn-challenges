@@ -57,7 +57,7 @@
 - [ropfu](picoctf/ropfu)
 - [tic-tac](picoctf/tic-tac)
 - [Unsubscriptions Are Free](picoctf/unsubsriptions-are-free)
-- [x-sixty-what](picoctf/x-sixty-what
+- [x-sixty-what](picoctf/x-sixty-what)
 
 
 **ROP Emporium**
