@@ -1,25 +1,21 @@
-### CaixaBank
-
-**2025**
+**CaixaBank**
 
 - [7](caixabank/2025/7)
 
 
-### deadface
-
-**2025**
+**deadface**
 
 - [Echo Chamber](deadface/2025/echo-chamber)
 - [Haunted Library](deadface/2025/haunted-library)
 - [Locked Out](deadface/2025/locked-out)
 
 
-### FCSC
+**FCSC**
 
 - [bofbof](fcsc/bofbof)
 
 
-### HackTheBox
+**HackTheBox**
 
 - [Execute](hackthebox/execute)
 - [Restaurant](hackthebox/restaurant)
@@ -27,29 +23,24 @@
 - [Rookie Salvation](hackthebox/rookie-salvation)
 
 
-### Imaginary CTF
-
-**2025**
+**Imaginary CTF**
 
 - [babybof](imaginary-ctf/2025/babybof)
 
 
-### Nava Negra
-
-**2025**
+**Nava Negra**
 
 - [4enraya](navaja-negra/2025/4enraya)
 - [Anbu](navaja-negra/2025/anbu)
 - [Armeria](navaja-negra/2025/armeria)
 
 
-### No Hack No CTF
-
-**2025**
+**No Hack No CTF**
 
 - [babyrop](no-hack-no-ctf/2025/babyrop)
 
-### PicoCTF
+
+**PicoCTF**
 
 - [Buffer Overflow 0](picoctf/buffer-overflow-0)
 - [Buffer Overflow 1](picoctf/buffer-overflow-1)
@@ -69,7 +60,7 @@
 - [x-sixty-what](picoctf/x-sixty-what
 
 
-### ROP Emporium
+**ROP Emporium**
 
 - [ret2win](rop-emporium/ret2win)
 - [split](rop-emporium/split)
@@ -81,16 +72,12 @@
 - [ret2csu](rop-emporium/ret2csu)
 
 
-### WHY
-
-**2025**
+**WHY**
 
 - [Old Memes Never Die](why/2025/old-memes-never-die)
 
 
-## WWCTF
-
-**2025**
+**WWCTF**
 
 - [Affirmation Bot](wwctf/2025/affirmation-bot)
 
