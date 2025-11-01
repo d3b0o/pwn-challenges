@@ -66,7 +66,8 @@
 - [ropfu](picoctf/ropfu)
 - [tic-tac](picoctf/tic-tac)
 - [Unsubscriptions Are Free](picoctf/unsubsriptions-are-free)
-- [x-sixty-what](picoctf/x-sixty-what)
+- [x-sixty-what](picoctf/x-sixty-what
+
 
 ### ROP Emporium
 
@@ -80,6 +81,17 @@
 - [ret2csu](rop-emporium/ret2csu)
 
 
+### WHY
 
+**2025**
+
+- [Old Memes Never Die](why/2025/old-memes-never-die)
+
+
+## WWCTF
+
+**2025**
+
+- [Affirmation Bot](wwctf/2025/affirmation-bot)
 
 
